@@ -284,8 +284,8 @@
   .top-\[-64px\] {
     top: -64px;
   }
-  .top-\[-\] {
-    top: -;
+  .top-\[3\] {
+    top: -3;
   }
   .top-\[3\] {
     top: 3;
@@ -407,14 +407,14 @@
   .right-\[600px\] {
     right: 600px;
   }
-  .right-\[600pxpx\] {
-    right: 600pxpx;
+  .right-\[600px\] {
+    right: 600px;
   }
   .right-\[1029px\] {
     right: 1029px;
   }
-  .right-\[1029pxpx\] {
-    right: 1029pxpx;
+  .right-\[1029px\] {
+    right: 1029px;
   }
   .right-\[px\] {
     right: px;
@@ -539,8 +539,8 @@
   .left-\[300px\] {
     left: 300px;
   }
-  .left-\[1029pxpx\] {
-    left: 1029pxpx;
+  .left-\[1029px\] {
+    left: 1029px;
   }
   .left-\[1048px\] {
     left: 1048px;
